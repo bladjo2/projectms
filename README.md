@@ -1,4 +1,4 @@
-https://projectms.netlify.app/movie
+https://projectms.netlify.app/
 
 # test
 
